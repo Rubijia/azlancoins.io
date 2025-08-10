@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60" viewBox="0 0 220 60">
+  <rect width="220" height="60" rx="10" fill="#274690"/>
+  <text x="20" y="38" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#f6e7b1">Azlan</text>
+  <circle cx="180" cy="30" r="12" fill="#d4af37"/>
+  <text x="174" y="35" font-size="12" fill="#102a43" font-family="Segoe UI">AZC</text>
+</svg>
